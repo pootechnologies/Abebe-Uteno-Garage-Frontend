@@ -3,7 +3,7 @@ import axios from 'axios';
 import {setupInterceptors} from './interceptors';
 
 const axiosInstance: AxiosInstance = axios.create({
-    baseURL: 'https://garage.abebeutenogarage.com/', // Replace with your real base URL
+    baseURL: 'https://abebegarage-api.pootechnologies.tech/', // Replace with your real base URL
     timeout: 30000,
 });
 

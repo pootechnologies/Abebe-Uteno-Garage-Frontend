@@ -1,9 +1,9 @@
-export const API_BASE_URL = "https://garage.abebeutenogarage.com/api/garage";
-export const API_BASE_URL_LOGIN = "https://garage.abebeutenogarage.com/api/token/";
-export const IMAGE_BASE_URL = "https://garage.abebeutenogarage.com/";
+export const API_BASE_URL = "https://abebegarage-api.pootechnologies.tech/api/garage";
+export const API_BASE_URL_LOGIN = "https://abebegarage-api.pootechnologies.tech/api/token/";
+export const IMAGE_BASE_URL = "https://abebegarage-api.pootechnologies.tech/";
 export const API_BASE_RENDER_URL = "https://poo-drf.onrender.com/api";
-export const API_BASE_PROFILE = "https://garage.abebeutenogarage.com/auth";
-export const API_BASE_REFRESH = 'https://garage.abebeutenogarage.com/api/token/refresh/'
+export const API_BASE_PROFILE = "https://abebegarage-api.pootechnologies.tech/auth";
+export const API_BASE_REFRESH = 'https://abebegarage-api.pootechnologies.tech/api/token/refresh/'
 
 export const API_ENDPOINTS = {
     LOGIN: "/token/",
