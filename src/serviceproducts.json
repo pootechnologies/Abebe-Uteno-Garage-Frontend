@@ -1,0 +1,534 @@
+[
+  {
+    "no": 262,
+    "description": "Brake adjustment service charge"
+  },
+  {
+    "no": 263,
+    "description": "Pedal adjustment service charge"
+  },
+  {
+    "no": 264,
+    "description": "Compressor service charge"
+  },
+  {
+    "no": 265,
+    "description": "Mola replacement service charge"
+  },
+  {
+    "no": 266,
+    "description": "Fork replacement service charge"
+  },
+  {
+    "no": 267,
+    "description": "Flywheel replacement service charge"
+  },
+  {
+    "no": 268,
+    "description": "Clutch pedal adjustment service charge"
+  },
+  {
+    "no": 269,
+    "description": "Pitman arm replacement service charge"
+  },
+  {
+    "no": 270,
+    "description": "Tie rod replacement service charge"
+  },
+  {
+    "no": 271,
+    "description": "Toe-in / toe-out adjustment service charge"
+  },
+  {
+    "no": 272,
+    "description": "Stabilizer replacement service charge"
+  },
+  {
+    "no": 273,
+    "description": "Camber and caster adjustment service charge"
+  },
+  {
+    "no": 274,
+    "description": "Relay rod end replacement service charge"
+  },
+  {
+    "no": 275,
+    "description": "Relay rod replacement service charge"
+  },
+  {
+    "no": 276,
+    "description": "Axle shaft replacement service charge"
+  },
+  {
+    "no": 277,
+    "description": "Front axle service charge"
+  },
+  {
+    "no": 278,
+    "description": "Back axle service charge"
+  },
+  {
+    "no": 279,
+    "description": "Tie rod arm replacement service charge"
+  },
+  {
+    "no": 280,
+    "description": "Gearbox removal and installation service charge"
+  },
+  {
+    "no": 281,
+    "description": "Gearbox overhaul service charge"
+  },
+  {
+    "no": 282,
+    "description": "Gearbox support replacement service charge"
+  },
+  {
+    "no": 283,
+    "description": "Differential overhaul service charge"
+  },
+  {
+    "no": 284,
+    "description": "Brake disc machining / adjustment service charge"
+  },
+  {
+    "no": 285,
+    "description": "Relay rod end replacement service charge"
+  },
+  {
+    "no": 286,
+    "description": "Relay rod replacement service charge"
+  },
+  {
+    "no": 287,
+    "description": "Steering damper assembly replacement service charge"
+  },
+  {
+    "no": 288,
+    "description": "Transfer shaft lever boot replacement service charge"
+  },
+  {
+    "no": 289,
+    "description": "Transfer shaft lever assembly replacement service charge"
+  },
+  {
+    "no": 290,
+    "description": "Transfer shaft lever replacement service charge"
+  },
+  {
+    "no": 291,
+    "description": "Transfer shaft lever shaft replacement service charge"
+  },
+  {
+    "no": 292,
+    "description": "Transfer shaft lever retainer replacement service charge"
+  },
+  {
+    "no": 293,
+    "description": "Sleeve joint replacement service charge"
+  },
+  {
+    "no": 294,
+    "description": "Grease fitting replacement service charge"
+  },
+  {
+    "no": 295,
+    "description": "Radiator removal and installation service charge"
+  },
+  {
+    "no": 296,
+    "description": "Radiator cleaning / flushing service charge"
+  },
+  {
+    "no": 297,
+    "description": "Radiator welding service charge"
+  },
+  {
+    "no": 298,
+    "description": "Radiator hose replacement service charge"
+  },
+  {
+    "no": 299,
+    "description": "Water pump replacement service charge"
+  },
+  {
+    "no": 300,
+    "description": "Thermostat replacement service charge"
+  },
+  {
+    "no": 301,
+    "description": "Temperature gauge replacement service charge"
+  },
+  {
+    "no": 302,
+    "description": "Fan motor replacement service charge"
+  },
+  {
+    "no": 303,
+    "description": "Fan shroud replacement service charge"
+  },
+  {
+    "no": 304,
+    "description": "Radiator grille replacement service charge"
+  },
+  {
+    "no": 305,
+    "description": "Condenser fan replacement service charge"
+  },
+  {
+    "no": 306,
+    "description": "Evaporator replacement service charge"
+  },
+  {
+    "no": 307,
+    "description": "Leading arm replacement service charge"
+  },
+  {
+    "no": 308,
+    "description": "Front fender apron replacement service charge"
+  },
+  {
+    "no": 309,
+    "description": "Rear suspension arm replacement service charge"
+  },
+  {
+    "no": 310,
+    "description": "Anchor arm replacement service charge"
+  },
+  {
+    "no": 311,
+    "description": "Lateral control rod bush replacement service charge"
+  },
+  {
+    "no": 312,
+    "description": "Stabilizer bar replacement service charge"
+  },
+  {
+    "no": 313,
+    "description": "Rear axle shaft replacement service charge"
+  },
+  {
+    "no": 314,
+    "description": "Fuse box repair service charge"
+  },
+  {
+    "no": 315,
+    "description": "Fuel sending unit service charge"
+  },
+  {
+    "no": 316,
+    "description": "Kilometer gauge adjustment / replacement service charge"
+  },
+  {
+    "no": 317,
+    "description": "Oil pressure gauge replacement service charge"
+  },
+  {
+    "no": 318,
+    "description": "Complete electrical wiring installation service charge"
+  },
+  {
+    "no": 319,
+    "description": "Complete electrical wiring repair service charge"
+  },
+  {
+    "no": 320,
+    "description": "Single electrical line repair service charge"
+  },
+  {
+    "no": 321,
+    "description": "Single electrical line installation service charge"
+  },
+  {
+    "no": 322,
+    "description": "Wiper motor replacement service charge"
+  },
+  {
+    "no": 323,
+    "description": "Wiper motor coil rewinding service charge"
+  },
+  {
+    "no": 324,
+    "description": "Wiper linkage/rod replacement service charge"
+  },
+  {
+    "no": 325,
+    "description": "Starter motor coil rewinding service charge"
+  },
+  {
+    "no": 326,
+    "description": "Starter motor service charge"
+  },
+  {
+    "no": 327,
+    "description": "Regulator replacement service charge"
+  },
+  {
+    "no": 328,
+    "description": "Ignition switch replacement / repair service charge"
+  },
+  {
+    "no": 329,
+    "description": "Battery acid measurement service charge"
+  },
+  {
+    "no": 330,
+    "description": "Battery charging service charge"
+  },
+  {
+    "no": 331,
+    "description": "Battery terminal replacement service charge"
+  },
+  {
+    "no": 332,
+    "description": "Battery cable replacement service charge"
+  },
+  {
+    "no": 333,
+    "description": "Remote control installation / repair service charge"
+  },
+  {
+    "no": 334,
+    "description": "Nozzle replacement service charge"
+  },
+  {
+    "no": 335,
+    "description": "Injection pump machine service charge"
+  },
+  {
+    "no": 336,
+    "description": "Injection pump machine calibration service charge"
+  },
+  {
+    "no": 337,
+    "description": "Fuel pump replacement service charge"
+  },
+  {
+    "no": 338,
+    "description": "Fuel tank removal and cleaning service charge"
+  },
+  {
+    "no": 339,
+    "description": "Fuel tank removal and welding service charge"
+  },
+  {
+    "no": 340,
+    "description": "Fuel line replacement / repair service charge"
+  },
+  {
+    "no": 341,
+    "description": "Engine removal and installation service charge"
+  },
+  {
+    "no": 342,
+    "description": "Engine support / mount replacement service charge"
+  },
+  {
+    "no": 343,
+    "description": "Cylinder head service charge"
+  },
+  {
+    "no": 344,
+    "description": "Cylinder head resurfacing service charge"
+  },
+  {
+    "no": 345,
+    "description": "Crankshaft grinding service charge"
+  },
+  {
+    "no": 346,
+    "description": "Camshaft grinding service charge"
+  },
+  {
+    "no": 347,
+    "description": "Complete engine overhaul service charge"
+  },
+  {
+    "no": 348,
+    "description": "Timing adjustment service charge"
+  },
+  {
+    "no": 349,
+    "description": "Valve adjustment service charge"
+  },
+  {
+    "no": 350,
+    "description": "Valve seat grinding service charge"
+  },
+  {
+    "no": 351,
+    "description": "Oil pump replacement service charge"
+  },
+  {
+    "no": 352,
+    "description": "Broken bolt removal service charge"
+  },
+  {
+    "no": 353,
+    "description": "Turbocharger replacement service charge"
+  },
+  {
+    "no": 354,
+    "description": "Door lock repair or replacement service charge"
+  },
+  {
+    "no": 355,
+    "description": "Front door lock adjustment service charge"
+  },
+  {
+    "no": 356,
+    "description": "Rear door lock adjustment service charge"
+  },
+  {
+    "no": 357,
+    "description": "Hood lock replacement service charge"
+  },
+  {
+    "no": 358,
+    "description": "Windshield frame adjustment service charge"
+  },
+  {
+    "no": 359,
+    "description": "Windshield installation service charge"
+  },
+  {
+    "no": 360,
+    "description": "Side door glass installation service charge"
+  },
+  {
+    "no": 361,
+    "description": "Rear door glass installation service charge"
+  },
+  {
+    "no": 362,
+    "description": "Side-view mirror installation service charge"
+  },
+  {
+    "no": 363,
+    "description": "Door hinge pin and bush machining service charge"
+  },
+  {
+    "no": 364,
+    "description": "Door collision/body damage repair service charge"
+  },
+  {
+    "no": 365,
+    "description": "Door body painting service charge"
+  },
+  {
+    "no": 366,
+    "description": "Front fender collision/body damage repair service charge"
+  },
+  {
+    "no": 367,
+    "description": "Front fender painting service charge"
+  },
+  {
+    "no": 368,
+    "description": "Rear fender collision/body damage repair service charge"
+  },
+  {
+    "no": 369,
+    "description": "Rear fender painting service charge"
+  },
+  {
+    "no": 370,
+    "description": "Front hood collision/body damage repair service charge"
+  },
+  {
+    "no": 371,
+    "description": "Front kofen painting service charge"
+  },
+  {
+    "no": 372,
+    "description": "Rear hood collision/body damage repair service charge"
+  },
+  {
+    "no": 373,
+    "description": "Roof collision/body damage repair service charge"
+  },
+  {
+    "no": 374,
+    "description": "Pillar repair service charge"
+  },
+  {
+    "no": 375,
+    "description": "Roof painting service charge"
+  },
+  {
+    "no": 376,
+    "description": "Removal and reinstallation of body parts for painting service charge"
+  },
+  {
+    "no": 377,
+    "description": "Body removal and installation service charge"
+  },
+  {
+    "no": 378,
+    "description": "Body maintenance service charge"
+  },
+  {
+    "no": 379,
+    "description": "Body support replacement service charge"
+  },
+  {
+    "no": 380,
+    "description": "Body support modification service charge"
+  },
+  {
+    "no": 381,
+    "description": "Front parawlt crash maintenance service charge"
+  },
+  {
+    "no": 382,
+    "description": "Back parawlt crash maintenance service charge"
+  },
+  {
+    "no": 383,
+    "description": "Front parawlt color and painting service charge"
+  },
+  {
+    "no": 384,
+    "description": "Back parawlt color and painting service charge"
+  },
+  {
+    "no": 385,
+    "description": "Tapestry service charge"
+  },
+  {
+    "no": 386,
+    "description": "Chair tipsier service charge"
+  },
+  {
+    "no": 387,
+    "description": "Chair maintenance service charge"
+  },
+  {
+    "no": 388,
+    "description": "Dashboard replacement service charge"
+  },
+  {
+    "no": 389,
+    "description": "Door tapestry service charge"
+  },
+  {
+    "no": 390,
+    "description": "Cren service charge"
+  },
+  {
+    "no": 391,
+    "description": "Chis mawcha maintenance service charge"
+  },
+  {
+    "no": 392,
+    "description": "Wheel balance service charge"
+  },
+  {
+    "no": 393,
+    "description": "Computer diagnosis service charge"
+  },
+  {
+    "no": 394,
+    "description": "Labiyajoo service charge"
+  }
+]
